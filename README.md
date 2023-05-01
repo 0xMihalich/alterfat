@@ -4,7 +4,7 @@
 
 ![Скриншот](https://github.com/0xMihalich/alterfat/blob/main/screen.jpg?raw=true)
 
-За основу взят код от maxpat78 https://github.com/maxpat78/FATtools
+За основу взят код от [**maxpat78**](https://github.com/maxpat78/FATtools)
 
 Проведен рефакторинг, оставлено только то, что нужно для форматирования
 
