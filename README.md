@@ -1,6 +1,6 @@
-#AlterFAT
-##Quick format USB devices to FAT12/16/32/exFAT for Windows 7-11 x86-x64
-###Быстрое форматирование карт памяти и USB-флешек в файловые системы семества FAT
+# AlterFAT
+## Quick format USB devices to FAT12/16/32/exFAT for Windows 7-11 x86-x64
+### Быстрое форматирование карт памяти и USB-флешек в файловые системы семества FAT
 
 ![Скриншот](https://github.com/0xMihalich/alterfat/blob/main/screen.jpg?raw=true)
 
@@ -31,8 +31,14 @@
 
 Форматирование флешки на 16 ГБ занимает буквально 2 секунды, память на 2 ТБ если она у кого-то конечно будет при форматировании займет какое-то время поскольку в раздел нужно лить 512 МБ данных
 
-###Работа с программой:
-```python
+### Работа с программой:
+1. установить зависимости
+```
+pip install -r requirements.txt
+```
+2. запустить программу
+```
+python alterfat.py
 ```
 
 [Скачать сборку под Windows 7-11 для 32 и 64 битных систем с моего Google Disk](https://drive.google.com/file/d/1w4AGRBT4lYr3qg--Ia8ypPu-j2-Xu9bF/)
