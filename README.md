@@ -41,4 +41,4 @@ pip install -r requirements.txt
 python alterfat.py
 ```
 
-[Скачать сборку под Windows 7-11 для 32 и 64 битных систем с моего Google Disk](https://drive.google.com/file/d/1w4AGRBT4lYr3qg--Ia8ypPu-j2-Xu9bF/)
+[Скачать сборку под **Windows 7-11** для **32** и **64** битных систем с моего Google Disk](https://drive.google.com/file/d/1w4AGRBT4lYr3qg--Ia8ypPu-j2-Xu9bF/)
