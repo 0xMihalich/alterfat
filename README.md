@@ -1,9 +1,8 @@
 # alterfat
 ## Quick format USB devices to FAT12/16/32/exFAT for Windows 7-11 x86-x64
+### Быстрое форматирование карт памяти и USB-флешек в файловые системы семества FAT
 
 ![Скриншот](https://github.com/0xMihalich/alterfat/blob/main/screen.jpg?raw=true)
-
-Быстрое форматирование карт памяти и USB-флешек в файловые системы семества FAT
 
 За основу взят код от maxpat78 https://github.com/maxpat78/FATtools
 Проведен рефакторинг, оставлено только то, что нужно для форматирования
